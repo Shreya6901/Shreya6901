@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building projects that blend AI/ML with real-world applications<br>
 👯 I’m looking to collaborate on innovative AI, web dev, and data science projects<br>
-🤝 I’m looking for help with refining UI/UX designs<br>
+🤝 I’m looking for help with refining UI/UX designs and integrating machine learning pipelines into web apps<br>
 🌱 I’m currently learning Deep Learning architectures and Data Structures and Algorithms<br>
 
 ## 🌐 Socials:
